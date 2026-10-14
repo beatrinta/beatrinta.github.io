@@ -1,0 +1,7 @@
+body {
+    /* 注意：如果你的图片放在根目录 source/images/bg.jpg，路径就是 /images/bg.jpg */
+    background-image: url('/images/bg.jpg') !important;
+    background-attachment: fixed; /* 背景固定 */
+    background-size: cover;       /* 背景铺满 */
+    background-position: center;  /* 背景居中 */
+}
